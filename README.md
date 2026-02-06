@@ -69,6 +69,16 @@ This project is a faithful recreation of the Cursor landing page, showcasing mod
       - Legal links
       - Connect (social media)
     - Bottom bar with copyright and language selector
-<img width="1877" height="899" alt="c1" src="https://github.com/user-attachments/assets/0b2273ad-00ee-4817-a75c-d7fe9d49ead4" />
 
+
+Screenshots
+
+<img width="1877" height="899" alt="c1" src="https://github.com/user-attachments/assets/0b2273ad-00ee-4817-a75c-d7fe9d49ead4" />
+<img width="1881" height="888" alt="c2" src="https://github.com/user-attachments/assets/4ce658a2-227c-4157-bc6e-927216fe9d85" />
+
+<img width="1860" height="792" alt="c3" src="https://github.com/user-attachments/assets/ba560e03-59f3-47d5-b43c-bafd045a35f6" />
+<img width="1881" height="888" alt="c4" src="https://github.com/user-attachments/assets/ec3a5505-7ce8-47df-92da-0f749be4ea0b" />
+<img width="1861" height="884" alt="c5" src="https://github.com/user-attachments/assets/9adaf1a4-73ec-40cb-b618-d72297a3f929" />
+<img width="1834" height="716" alt="c6" src="https://github.com/user-attachments/assets/a95b55fc-488b-4f49-a2d8-fe433ad6ca09" />
+<img width="1857" height="889" alt="c7" src="https://github.com/user-attachments/assets/7deabe44-9e1b-47b5-aaeb-3e6189dc3c1b" />
 
